@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85dc173d-546f-4514-b3fb-5adee124fe94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework1 - Task 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1 - Task 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework1 - Task8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework 1 - Task 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 1 - Task 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1 - Task 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1 - Task 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework1 - Task 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework1 - Task 7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +54,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Homework 1 - Task 5.executor": "Run",
+    "Python.Homework1 - Task 10.executor": "Run",
     "Python.Homework1 - Task 6.executor": "Run",
     "Python.Homework1 - Task 7.executor": "Run",
+    "Python.Homework1 - Task 9.executor": "Run",
+    "Python.Homework1 - Task8.executor": "Run",
     "Python.Homework1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "homeworks",
