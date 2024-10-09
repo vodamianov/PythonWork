@@ -20,10 +20,17 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonWork" />
+=======
+        <entry key="$PROJECT_DIR$" value="homeworks" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+>>>>>>> homeworks
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -56,7 +63,11 @@
     &quot;Python.Homework1 - Task8.executor&quot;: &quot;Run&quot;,
     &quot;Python.Homework1.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+=======
+    &quot;git-widget-placeholder&quot;: &quot;homeworks&quot;,
+>>>>>>> homeworks
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
@@ -79,6 +90,7 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+<<<<<<< HEAD
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -94,6 +106,8 @@
         </entry>
       </map>
     </option>
+=======
+>>>>>>> homeworks
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -104,7 +118,11 @@
                   <entry key="branch">
                     <value>
                       <list>
+<<<<<<< HEAD
                         <option value="origin/homeworks" />
+=======
+                        <option value="PythonWork/main" />
+>>>>>>> homeworks
                       </list>
                     </value>
                   </entry>
