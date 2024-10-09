@@ -23,7 +23,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PythonWork" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -46,20 +46,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Homework 1 - Task 5.executor": "Run",
-    "Python.Homework1 - Task 10.executor": "Run",
-    "Python.Homework1 - Task 6.executor": "Run",
-    "Python.Homework1 - Task 7.executor": "Run",
-    "Python.Homework1 - Task 9.executor": "Run",
-    "Python.Homework1 - Task8.executor": "Run",
-    "Python.Homework1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Homework 1 - Task 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -79,6 +79,21 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -89,7 +104,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="PythonWork/main" />
+                        <option value="origin/homeworks" />
                       </list>
                     </value>
                   </entry>
