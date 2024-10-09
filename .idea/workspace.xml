@@ -27,41 +27,41 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "vodamianov"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;vodamianov&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/vodamianov/PythonWork.git",
-    "accountId": "77022023-e8f5-4294-af18-f3e5432c67cb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/vodamianov/PythonWork.git&quot;,
+    &quot;accountId&quot;: &quot;77022023-e8f5-4294-af18-f3e5432c67cb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2n4rXr00Pwty7V1KTOnqka4lTmi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Homework 1 - Task 5.executor": "Run",
-    "Python.Homework1 - Task 10.executor": "Run",
-    "Python.Homework1 - Task 6.executor": "Run",
-    "Python.Homework1 - Task 7.executor": "Run",
-    "Python.Homework1 - Task 9.executor": "Run",
-    "Python.Homework1 - Task8.executor": "Run",
-    "Python.Homework1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "homeworks",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Homework 1 - Task 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task 9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1 - Task8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Homework1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;homeworks&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -91,7 +91,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="PythonWork/homeworks" />
+                        <option value="PythonWork/main" />
                       </list>
                     </value>
                   </entry>
